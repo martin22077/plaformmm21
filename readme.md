@@ -7,10 +7,7 @@ fr
 mmm
 
 bals
-<<<<<<< HEAD
 bomb
 asd
-=======
 w
 bo
->>>>>>> bals
