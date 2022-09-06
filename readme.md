@@ -7,5 +7,7 @@ fr
 mmm
 
 bals
+bomb
+asd
 w
 bo
